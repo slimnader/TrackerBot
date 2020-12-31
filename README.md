@@ -27,6 +27,10 @@ Installation
 -Call Main Method and follow the cmd prompt
 
 
+Future 
+-Automated buying. 
+-Proxy Switching to avoid bot detection. 
+
 DevKit
 -Jdk 11
 -Selenium
